@@ -10,7 +10,7 @@ ionic cordova plugin add com.razorpay.cordova --save
 
 Checkout Screen  |  Payments Banks |  Status Screen 
 :-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/payments-screen.png)  |  ![](screenshots/payments-banks-screen.png) |  ![](screenshots/status-screen.png) 
+![](screenshots/payment-screen.png)  |  ![](screenshots/payments-banks-screen.png) |  ![](screenshots/status-screen.png) 
 
 
 ## Running The App
