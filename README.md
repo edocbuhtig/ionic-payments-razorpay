@@ -1,12 +1,12 @@
-## Ionic Payments Using Razorpay Payment Gateway
+### Ionic Payments Using Razorpay Payment Gateway
 
-## Razorpay Cordova Plugin
+### Razorpay Cordova Plugin
 
 ```
 ionic cordova plugin add com.razorpay.cordova --save
 ```
 
-## Screenshots
+### Screenshots
 
 Checkout Screen  |  Payments Banks |  Status Screen 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -17,7 +17,7 @@ Razorpay Dashboard  |
 ![](screenshots/razorpay-dashboard.png) 
 
 
-## Running The App
+### Running The App
 
 ```
 ionic cordova run browser
